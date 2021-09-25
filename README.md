@@ -10,4 +10,4 @@ Type the appropriate option number and hit Enter. If you create an account, the 
 
 ![Post-Login](https://user-images.githubusercontent.com/65642947/134769239-3aeb23d6-fd70-4f83-90e9-22712ddab4e1.JPG)
 
-You can then view the balance of the account, add funds to the currently logged-in account, transfer funds from the current logged-in account to any of the accounts that were created at any instance (as it is stored in the same local DB) of application execution, close the account, log out or exit the application.
+You can then view the balance of the account, add funds to the currently logged-in account, transfer funds from the current logged-in account to any of the accounts that were created at any instance (as it is stored in the same local DB) of application execution, close the account, log out or exit the application by typing any of the corresponding digits and hitting Enter, post which the corresponding actions can be performed.
