@@ -1,8 +1,8 @@
 # Console Banking
 
-This is a miniature banking application built using Python for front-end and SQLite Database engine library for backend management. It uses Luhn's algorithm to generate  the checksum for the user account.
+This is a miniature banking application built using Python for functional programming and SQLite Database engine library for backend management. It uses Luhn's algorithm to generate the checksum for the user account.
 
-Download the python file and run it in a console. You will be presented with the following options :
+Download the python file and run it from a console. You will be presented with the following options :
 
 ![Welcome screen](https://user-images.githubusercontent.com/65642947/134769140-406d01f6-75e9-45f1-bc56-f54226627ecf.JPG)
 
